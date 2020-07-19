@@ -140,12 +140,7 @@ def training_loop(content_path,style_path, iterations =20,
 
 # %%
 best_image = training_loop('content.jpg','style.jpg')
-
-<<<<<<< HEAD
 # %%
 disp_img(best_image)
 
 
-# %%
-=======
->>>>>>> parent of c6694cba27... ML-Udacity Class
