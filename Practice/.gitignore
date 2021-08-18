@@ -1,0 +1,7 @@
+DataSets/
+Logs/
+venv/
+Model_saves/
+models/
+.idea
+.vscode
